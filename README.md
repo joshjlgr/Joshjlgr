@@ -5,7 +5,8 @@
 <details>
     <summary><b>📌 About</b></summary><br/>
    "Unlocking the Digital Frontier: Crafting Seamless Online Experiences
-<p>
+<br><br>
+    <p>
 In today's interconnected world, where every click, tap, and swipe shapes our online reality, web developers stand as architects of the digital landscape. They are the visionaries who transform ideas into captivating websites, intuitive applications, and immersive platforms that seamlessly meld creativity with functionality. As technology continues to evolve, web developers play a pivotal role in shaping user experiences that transcend screens, transcending boundaries and bringing visions to life with code. This is the realm where innovation meets pixels, and where the future of human interaction resides. Welcome to the realm of web development, where limitless possibilities await in the realm of the virtual."</p>
 </details>
 
