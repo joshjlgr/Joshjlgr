@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Josh..
+### Hi there 👋, welcome to my GitHub Page
 
 ![Groupie](https://github.com/joshjlgr/Joshjlgr/blob/main/gh_banner1.jpg)
 
