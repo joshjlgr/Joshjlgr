@@ -1,13 +1,10 @@
-### Hi there 👋, welcome to my GitHub Page
+### Hi 👋, you have reached my GitHub Page!
 
 ![Groupie](https://github.com/joshjlgr/Joshjlgr/blob/main/gh_banner1.jpg)
 
 <details>
     <summary><b>📌 About</b></summary><br/>
-   "Unlocking the Digital Frontier: Crafting Seamless Online Experiences
-<br><br>
-  
-In today's interconnected world, where every click, tap, and swipe shapes our online reality, web developers stand as architects of the digital landscape. They are the visionaries who transform ideas into captivating websites, intuitive applications, and immersive platforms that seamlessly meld creativity with functionality. <br><br> As technology continues to evolve, web developers play a pivotal role in shaping user experiences that transcend screens, transcending boundaries and bringing visions to life with code. This is the realm where innovation meets pixels, and where the future of human interaction resides. Welcome to the realm of web development, where limitless possibilities await in the realm of the virtual."
+Hello there! I'm Josh, an Analyst Programmer or Business Systems Analyst passionate about leveraging technology to solve complex problems and drive innovation. With a blend of analytical thinking, programming skills, and a love for continuous learning, I specialize in developing efficient and scalable solutions that meet business needs and exceed expectations. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
 </details>
 
 <details>
