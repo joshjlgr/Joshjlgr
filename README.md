@@ -18,8 +18,8 @@ In today's interconnected world, where every click, tap, and swipe shapes our on
 
 <details>
     <summary><b>📚 What Am I Doing</b></summary><br/>
-    &nbsp;- 🔭 I’m currently working on My Programming Skills<br/>
-    &nbsp;- 🌱 I’m looking to learn React<br/>
+    &nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
+    &nbsp;- 🌱 I’m looking to improve on React<br/>
     &nbsp;- 👯 I’m looking to collaborate on Github<br/>
 </details>
 
@@ -49,7 +49,7 @@ In today's interconnected world, where every click, tap, and swipe shapes our on
 </details>
 
 <details>
-    <summary><b>🎰 Stats</b></summary><br/>
+    <summary><b>🎰 Some Statistics</b></summary><br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
