@@ -26,7 +26,7 @@
 <table>
     <tbody>
         <tr>
-                     <td><a href="https://www.youtube.com/channel/UCyjG_gMpx7dkcbxf4kNKa1Q">
+            <td><a href="https://www.youtube.com/channel/UCyjG_gMpx7dkcbxf4kNKa1Q">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
             </a></td>
                      <td><a href="https://joshinbox.wixsite.com/jlgr">
@@ -50,8 +50,6 @@
     <summary><b>🎰 Some Statistics</b></summary><br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=dark)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joshjlgr&theme=dark)
 
