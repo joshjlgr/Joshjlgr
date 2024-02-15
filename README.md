@@ -2,6 +2,7 @@
 
 ![Groupie](https://github.com/joshjlgr/Joshjlgr/blob/main/gh_banner1.jpg)
 
+[click to expand..]
 <details>
     <summary><b>📌 About</b></summary><br/>
 Hello there! I'm Josh, an Analyst Programmer or Business Systems Analyst passionate about leveraging technology to solve complex problems and drive innovation. With a blend of analytical thinking, programming skills, and a love for continuous learning, I specialize in developing efficient and scalable solutions that meet business needs and exceed expectations. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
