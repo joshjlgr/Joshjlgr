@@ -59,7 +59,7 @@
 
 <details>
 
-![Profile views](https://gpvc.arturio.dev/joshjlgr)     ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018daa53-0fd1-4339-a5d4-8395d9c42b77)](https://github.com/anuraghazra/github-readme-stats)
 
