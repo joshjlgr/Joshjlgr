@@ -51,16 +51,14 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joshjlgr&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@018daa53-0fd1-4339-a5d4-8395d9c42b77)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
-[![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)
+[![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
 </details>
