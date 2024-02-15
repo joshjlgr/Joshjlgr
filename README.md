@@ -53,24 +53,11 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joshjlgr&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=radical)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 ![Metrics](https://metrics.lecoq.io/joshjlgr?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
 
