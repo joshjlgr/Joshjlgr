@@ -55,9 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   |   ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
