@@ -54,16 +54,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=dark)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joshjlgr&theme=dark)
-  
-</details>
-
-<details>
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr)](https://github.com/joshjlgr/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true)
 
