@@ -58,13 +58,6 @@
 </details>
 
 <details>
-    <summary><b>💾 Logs</b></summary><br/>
-- uses: lowlighter/metrics@latest
-  with:
-    template: markdown
-    markdown_cache: .cache
-
-    <%- await embed(`example-languages-pdf`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
 
 ![Profile views](https://gpvc.arturio.dev/joshjlgr)     ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
