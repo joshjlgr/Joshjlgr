@@ -48,14 +48,12 @@
 
 <details>
     <summary><b>🎰 Some Statistics</b></summary><br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joshjlgr&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=merko)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joshjlgr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshjlgr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/joshjlgr?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
 
