@@ -2,7 +2,7 @@
 
 ![Groupie](https://github.com/joshjlgr/Joshjlgr/blob/main/gh_banner1.jpg)
 
-[click to expand..]
+<< click to expand >>
 
 <details>
     <summary><b>📲 Connect with me</b></summary><br/>
@@ -42,6 +42,8 @@
 </details>
 
 <details>
+    <br>Self introduction on youtube <br>
+https://www.youtube.com/watch?v=ahCehAyOeJE&embeds_referring_euri=https%3A%2F%2Fwww.thecn.com%2F&source_ve_path=OTY3MTQ <p></p>
     <summary><b>📌 About</b></summary><br/>
 👋Hello I am Josh, pleased to meet you! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
 </details>
