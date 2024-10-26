@@ -32,8 +32,8 @@
 <details>
     <summary><b>📚 What Am I Doing</b></summary><br/>
     &nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
-    &nbsp;- 🌱 I’m looking to improve on React<br/>
-    &nbsp;- 👯 I’m looking to collaborate on Github<br/>
+    &nbsp;- 🌱 I’m looking to grow as an IT Manager<br/>
+    &nbsp;- 👯 I’m seeking to collaborate on Github<br/>
 </details>
 
 <details>
@@ -43,7 +43,7 @@
 
 <details>
     <summary><b>📌 About</b></summary><br/>
-👋Hello there! I'm Josh, an Analyst Programmer or Business Systems Analyst passionate about leveraging technology to solve complex problems and drive innovation. With a blend of analytical thinking, programming skills, and a love for continuous learning, I specialize in developing efficient and scalable solutions that meet business needs and exceed expectations. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
+👋Hello I am Josh, pleased to meet you! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
 </details>
 
 <details>
