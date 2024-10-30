@@ -10,7 +10,7 @@
 </details>
 
 <details>
-    <summary><b>📚 What Am I Doing</b></summary><br/>
+    <summary>📚 What Am I Doing</b></summary><br>
     &nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
     &nbsp;- 🌱 I’m looking to grow as an IT Manager<br/>
     &nbsp;- 👯 I’m seeking to work on meaningful projects<br/>
