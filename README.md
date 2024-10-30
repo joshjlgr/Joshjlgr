@@ -10,6 +10,13 @@
 </details>
 
 <details>
+    <summary><b>📚 What Am I Doing</b></summary><br/>
+    &nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
+    &nbsp;- 🌱 I’m looking to grow as an IT Manager<br/>
+    &nbsp;- 👯 I’m seeking to work on meaningful projects<br/>
+</details>
+
+<details>
     <summary><b>📲 Connect with me</b></summary><br/>
 <table>
     <tbody>
@@ -34,12 +41,6 @@
 </table>
 </details>
 
-<details>
-    <summary><b>📚 What Am I Doing</b></summary><br/>
-    &nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
-    &nbsp;- 🌱 I’m looking to grow as an IT Manager<br/>
-    &nbsp;- 👯 I’m seeking to work on meaningful projects<br/>
-</details>
 
 <details>
     <summary>🔫 Languages & Tools</b></summary><br>
