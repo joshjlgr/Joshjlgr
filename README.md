@@ -42,8 +42,8 @@
 </details>
 
 <details>
-    <summary>📌 About Josh</b></summary><b>
-👋Hello pleased to meet you! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
+    <summary>📌 About the Author</b></summary><b>
+👋Pleased to meet you my name is Josh! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
 </details>
 
 <details>
