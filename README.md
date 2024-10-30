@@ -5,13 +5,13 @@
 << click to expand >>
 
 <details>
-    <summary>📌 About the Author</b></summary><b>
-👋Pleased to meet you my name is Josh! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
+    <summary>📌 About the Author</summary>
+<br>👋Pleased to meet you my name is Josh! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
 </details>
 
 <details>
-    <summary>📚 What Am I Doing</b></summary><br>
-    &nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
+    <summary>📚 What Am I Doing</summary>
+    <br>&nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
     &nbsp;- 🌱 I’m looking to grow as an IT Manager<br/>
     &nbsp;- 👯 I’m seeking to work on meaningful projects<br/>
 </details>
