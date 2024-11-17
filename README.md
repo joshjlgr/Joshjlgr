@@ -2,7 +2,7 @@
 
 ![Groupie](https://github.com/joshjlgr/Joshjlgr/blob/main/gh_banner1.jpg)
 
-_*click on element to expand_
+_* click on element to expand_
 
 <details>
     <summary>📌 About the Author</summary>
