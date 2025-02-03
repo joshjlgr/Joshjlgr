@@ -11,8 +11,8 @@ _* click on element to expand ..._
 
 <details>
     <summary>📚 What Am I Doing</summary>
-    <br>&nbsp;- 🔭 I’m working to deepen my Programming Skills<br/>
-    &nbsp;- 🌱 I’m looking to grow as an IT Manager<br/>
+    <br>&nbsp;- 🔭 I’m working to deepening my skills<br/>
+    &nbsp;- 🌱 I’m looking to grow in the IT sector<br/>
     &nbsp;- 👯 I’m seeking to work on meaningful projects<br/>
 </details>
 
