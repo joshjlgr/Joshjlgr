@@ -17,6 +17,8 @@
     &nbsp; - 🐊 Staff Management Solution - https://www.youtube.com/watch?v=Z9LFcEgjnCE<br/>
     &nbsp; - 🐊 Information Management System - https://youtu.be/_ftBPZ3W_oA<br/>
     &nbsp; - 🐛 Service Solution - https://youtu.be/-lNgu_Ecxq4<br/>
+    &nbsp; - 🦚 Commercial Project - https://caek.store<br/>
+    &nbsp; - 🐉 eCommerce Project - https://intratrade.com.sg<br/>
 </details>
 
 <details>
