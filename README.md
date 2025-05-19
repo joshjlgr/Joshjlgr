@@ -5,15 +5,18 @@
 _* click on element to expand ..._
 
 <details>
-    <summary>📌 About the Author</summary>
-<br>👋Pleased to meet you my name is Josh! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
+    <summary>🐻 Meet the Author</summary>
+<br> Pleased to meet you my name is Josh! So I am passionate about leveraging technology to solve problems and drive innovation. I come with a blend of analytical thinking, programming skills, and a love for continuous learning. I believe in implementing efficient yet scalable solutions that meet business functionalities and expectations of stakeholders. Let's connect and collaborate on innovative projects together! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss any projects. Happy coding! 🚀
 </details>
 
 <details>
-    <summary>📚 What Am I Doing</summary>
-    <br>&nbsp;- 🔭 I’m working to deepening my skills<br/>
-    &nbsp;- 🌱 I’m looking to grow in the IT sector<br/>
-    &nbsp;- 👯 I’m seeking to work on meaningful projects<br/>
+    <summary>🕸 My Projects</summary><br>
+    &nbsp; - 🐊 Staff Management Solution - https://www.youtube.com/watch?v=Z9LFcEgjnCE<br/>
+    &nbsp; - 🐊 Information Management System - https://youtu.be/_ftBPZ3W_oA<br/>
+    &nbsp; - 🐛 Service Solution - https://youtu.be/-lNgu_Ecxq4<br/>
+    &nbsp; - 🦎 Widget or Gadget - https://www.youtube.com/watch?v=xGcWM5eww2A<br/>
+    &nbsp; - 🦖 Web App - https://www.youtube.com/watch?v=-lNgu_Ecxq4<br/>
+    &nbsp; - 🐍 UIUX Mobile Design - https://www.figma.com/design/Ligql2F5F0eRHYXW8XEWyT/Recipe-Sharing-Mobile-App-%7BWORK-IN-PROCESS%7D?node-id=0-1&t=LXriYnlP0Yt78g0N-1<br/>
 </details>
 
 <details>
