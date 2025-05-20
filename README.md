@@ -22,6 +22,7 @@
     &nbsp; - 🐍 UIUX Mobile Design - https://www.figma.com/design/Ligql2F5F0eRHYXW8XEWyT/Recipe-Sharing-Mobile-App-%7BWORK-IN-PROCESS%7D?node-id=0-1&t=LXriYnlP0Yt78g0N-1<br/>
     &nbsp; - 🦖 Web App - https://www.youtube.com/watch?v=-lNgu_Ecxq4<br/>
     &nbsp; - 🦎 Widget or Gadget - https://www.youtube.com/watch?v=xGcWM5eww2A<br/>
+    &nbsp; - 🦗 eTicketing System - https://www.youtube.com/watch?v=fc_DurYdk-0<br/>
     &nbsp; - 🐊 Staff Management Solution - https://www.youtube.com/watch?v=Z9LFcEgjnCE<br/>
     &nbsp; - 🐊 Information Management System - https://youtu.be/_ftBPZ3W_oA<br/>
     &nbsp; - 🐛 Service Solution - https://youtu.be/-lNgu_Ecxq4<br/>
