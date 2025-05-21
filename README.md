@@ -64,7 +64,7 @@
 
 
 <details>
-    <summary><b>🐳 Pullled Statistics</b></summary><br/>
+    <summary><b>🐳 Pulled Statistics</b></summary><br/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joshjlgr&theme=dark)
 
