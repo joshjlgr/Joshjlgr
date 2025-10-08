@@ -6,7 +6,7 @@
 
 <details>
     <summary>🐻 Meet the Author</summary>
-<br> “Hi, I’m Josh, it’s a pleasure to meet you! I’m passionate about leveraging technology to solve problems and drive innovation. I bring a blend of analytical thinking, design thinking, a commitment to continuous learning.”  🚀
+<br> “Hi there I’m Josh, and this is my Github homepage. I’m passionate about leveraging technology to solve problems and drive innovation. I bring a blend of analytical thinking, design thinking, a commitment to continuous learning.”  🚀
 </details>
 
 
@@ -69,5 +69,6 @@
 [![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   |   ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 </details>
+
 
 
