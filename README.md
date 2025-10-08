@@ -45,14 +45,8 @@
             <td><a href="https://www.youtube.com/channel/UCyjG_gMpx7dkcbxf4kNKa1Q">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
             </a></td>
-                     <td><a href="https://joshinbox.wixsite.com/jlgr">
-            <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
-            </a></td>
                      <td><a href="https://github.com/joshjlgr/">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-            </a></td>
-                      <td><a href="https://www.thecn.com/JG282/">
-            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
             </a></td>
                       <td><a href="https://www.linkedin.com/in/jlgrcopyright/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -75,3 +69,4 @@
 [![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   |   ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 </details>
+
