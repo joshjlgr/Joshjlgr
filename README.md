@@ -7,7 +7,7 @@
 <details>
     <summary>🐻 Meet the Author</summary>
 <br> Hey there! I’m Josh — thanks for stopping by my GitHub! 
-    For me, tech isn’t just about lines of code or flashy tools—it’s about people. I believe great design or technology simplifies lives, and solve the problems that matter.
+    For me, tech isn’t just about lines of code or flashy tools—it’s about people. I believe great design or tech simplifies lives, and solve the problems that matters.
     I’m a huge believer in continuous learning. In that technology should empower, not overwhelm. 🚀
 </details>
 
@@ -71,6 +71,7 @@
 [![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   |   ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 </details>
+
 
 
 
