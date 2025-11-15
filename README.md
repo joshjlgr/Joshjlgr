@@ -31,7 +31,7 @@
     &nbsp; - 🦎 Widget or Gadget - https://www.youtube.com/watch?v=xGcWM5eww2A<br/>
     &nbsp; - 🦗 eTicketing System - https://www.youtube.com/watch?v=fc_DurYdk-0<br/>
     &nbsp; - 🐊 Staff Management Solution - https://www.youtube.com/watch?v=mUYPnGNDn4U<br/>
-    &nbsp; - 🐊 Information Management System - https://youtu.be/_ftBPZ3W_oA<br/>
+    &nbsp; - 🐊 Information Management System - https://www.youtube.com/watch?v=QhScBVV66Wc<br/>
     &nbsp; - 🐛 Service Solution - https://youtu.be/-lNgu_Ecxq4<br/>
     &nbsp; - 🦚 Commercial Website - https://caek.store<br/>
     &nbsp; - 🐉 eCommerce CMS - https://intratrade.com.sg<br/>
@@ -71,6 +71,7 @@
 [![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   |   ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 </details>
+
 
 
 
