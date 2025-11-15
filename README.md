@@ -26,7 +26,7 @@
 
 <details>
     <summary>🦄 Checkout My Projects</summary><br>
-    &nbsp; - 🐍 UIUX Mobile Design - <br/>https://www.youtube.com/watch?v=uIjgFdge3cA&t=10s
+    &nbsp; - 🐍 UIUX Mobile Design - https://www.youtube.com/watch?v=uIjgFdge3cA&t=10s<br/>
     &nbsp; - 🦖 Art Hosting Gallery - https://www.youtube.com/watch?v=QhScBVV66Wc<br/>
     &nbsp; - 🦎 Widget or Gadget - https://www.youtube.com/watch?v=xGcWM5eww2A<br/>
     &nbsp; - 🦗 eTicketing System - https://www.youtube.com/watch?v=fc_DurYdk-0<br/>
@@ -71,6 +71,7 @@
 [![wakatime](https://wakatime.com/badge/user/018daa53-0fd1-4339-a5d4-8395d9c42b77.svg)](https://wakatime.com/@018daa53-0fd1-4339-a5d4-8395d9c42b77)  |  ![Site maintainance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)   |   ![Build by whom](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 </details>
+
 
 
 
