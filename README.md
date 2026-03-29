@@ -47,16 +47,13 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://www.youtube.com/channel/UCyjG_gMpx7dkcbxf4kNKa1Q">
+                    <td><a href="https://www.youtube.com/channel/UCyjG_gMpx7dkcbxf4kNKa1Q">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
             </a></td>
                      <td><a href="https://github.com/joshjlgr/">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
             </a></td>
-                      <td><a href="https://www.linkedin.com/in/jlgrcopyright/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-            </a></td>
-                        <td><a href="https://www.behance.net/joshlim13">
+                     <td><a href="https://www.behance.net/joshlim13">
             <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" />
             </a></td>
         </tr>
