@@ -27,14 +27,14 @@
 <details>
     <summary>🦄 Checkout My Projects</summary><br>
     &nbsp; - 🐍 UIUX Mobile Design - https://www.youtube.com/watch?v=uIjgFdge3cA&t=10s<br/>
-    &nbsp; - 🦖 Art Hosting Gallery - https://www.youtube.com/watch?v=QhScBVV66Wc<br/>
+    &nbsp; - 🦖 Art Hosting Gallery - https://youtu.be/QhScBVV66Wc<br/>
     &nbsp; - 🦗 eTicketing System - https://www.youtube.com/watch?v=fc_DurYdk-0<br/>
     &nbsp; - 🐊 Staff Management Solution - https://www.youtube.com/watch?v=mUYPnGNDn4U<br/>
-    &nbsp; - 🐊 Books Management System - https://www.youtube.com/watch?v=pDwsOWw_dKc&t=114s<br/>
-    &nbsp; - 🦎 Web Troubleshooting - https://www.youtube.com/watch?v=VVIpcLP4OAc<br/>
+    &nbsp; - 🐊 Books Management System - https://youtu.be/pDwsOWw_dKc<br/>
+    &nbsp; - 🦎 Web Troubleshooting - https://youtu.be/VVIpcLP4OAc<br/>
     &nbsp; - 🐛 Local Directory Service - https://youtu.be/-lNgu_Ecxq4<br/>
-    &nbsp; - 🦚 Commercial Website -https://www.youtube.com/watch?v=uflXoBljX74<br/>
-    &nbsp; - 🐉 Outdoors Equipment - https://www.youtube.com/watch?v=mfneTQuLnK8<br/>
+    &nbsp; - 🦚 Commercial Website - https://youtu.be/uflXoBljX74<br/>
+    &nbsp; - 🐉 Safety Equipments - https://youtu.be/mfneTQuLnK8<br/>
 </details>
 
 
