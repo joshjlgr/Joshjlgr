@@ -27,7 +27,7 @@
 <details>
     <summary>🦄 Checkout My Projects</summary><br>
     &nbsp; - 🐍 UIUX Mobile Design - https://youtu.be/uIjgFdge3cA<br/>
-    &nbsp; - 🦕 AI Job Match - https://www.youtube.com/watch?v=nq8_7TdYjps<br/>
+    &nbsp; - 🦕 AI Job Matching - https://www.youtube.com/watch?v=nq8_7TdYjps<br/>
     &nbsp; - 🐲 AI Web Apps - https://youtu.be/0uAARZRCrMA<br/>
     &nbsp; - 🦚 eCommerce Store - https://youtu.be/uflXoBljX74<br/>
     &nbsp; - 🐉 Supplier Website - https://youtu.be/bni0rEwSdHs<br/>
