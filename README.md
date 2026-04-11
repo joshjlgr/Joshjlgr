@@ -27,17 +27,18 @@
 <details>
     <summary>🦄 Checkout My Projects</summary><br>
     &nbsp; - 🐍 UIUX Mobile Design - https://youtu.be/uIjgFdge3cA<br/>
+    &nbsp; - 🦕 AI Job Match - https://www.youtube.com/watch?v=nq8_7TdYjps<br/>
     &nbsp; - 🐲 AI Web Apps - https://youtu.be/0uAARZRCrMA<br/>
     &nbsp; - 🦚 eCommerce Store - https://youtu.be/uflXoBljX74<br/>
     &nbsp; - 🐉 Supplier Website - https://youtu.be/bni0rEwSdHs<br/>
     &nbsp; - 🦖 Art Hosting Gallery - https://youtu.be/QhScBVV66Wc<br/>
     &nbsp; - 🦗 eTicketing System - https://youtu.be/fc_DurYdk-0<br/>
-    &nbsp; - 🦖 Staff Management Solution - https://youtu.be/mUYPnGNDn4U<br/>
+    &nbsp; - 🪲 Staff Management Solution - https://youtu.be/mUYPnGNDn4U<br/>
     &nbsp; - 🐊 Books Management System - https://youtu.be/pDwsOWw_dKc<br/>
     &nbsp; - 🦎 Web Troubleshooting - https://youtu.be/VVIpcLP4OAc<br/>
     &nbsp; - 🐛 Local Directory Service - https://youtu.be/-lNgu_Ecxq4<br/>
     &nbsp; - 🐢 POS Checkout System - https://youtu.be/n53w3a4Wu4w<br/>
-    &nbsp; - 🐍 A CRUD Project - https://youtu.be/VX_bgsl4SOs<br/>
+    &nbsp; - 🦠 A CRUD Project - https://youtu.be/VX_bgsl4SOs<br/>
 </details>
 
 
